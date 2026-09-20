@@ -3,7 +3,7 @@
 [![CI](https://github.com/Shamanchi/rag-youtube/actions/workflows/ci.yml/badge.svg)](https://github.com/Shamanchi/rag-youtube/actions/workflows/ci.yml)
 [![Python 3.11+](https://img.shields.io/badge/python-3.11%2B-blue.svg)](https://www.python.org/)
 [![Docker](https://img.shields.io/badge/docker-ready-blue.svg)](./Dockerfile)
-[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](./LICENSE)
+[![License: Shamanchi](https://img.shields.io/badge/License-Shamanchi-green.svg)](./LICENSE)
 
 > **English TL;DR:** FastAPI YouTube-transcript RAG: mock videos with timestamped segments, keyword search across transcripts, answers with [mm:ss] citations. Fully offline, no tokens needed.
 
